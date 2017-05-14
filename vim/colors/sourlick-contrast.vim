@@ -100,6 +100,6 @@ hi link htmlH6 htmlH5
 
 " And finally.
 
-let g:colors_name = "Sourlick Contrast"
-let colors_name   = "Sourlick Contrast"
+let g:colors_name = "sourlick-contrast"
+let colors_name   = "sourlick-contrast"
 

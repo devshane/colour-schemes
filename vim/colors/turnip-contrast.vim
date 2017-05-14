@@ -100,6 +100,6 @@ hi link htmlH6 htmlH5
 
 " And finally.
 
-let g:colors_name = "Turnip Contrast"
-let colors_name   = "Turnip Contrast"
+let g:colors_name = "turnip-contrast"
+let colors_name   = "turnip-contrast"
 

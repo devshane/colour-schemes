@@ -100,6 +100,6 @@ hi link htmlH6 htmlH5
 
 " And finally.
 
-let g:colors_name = "Carbonight Contrast"
-let colors_name   = "Carbonight Contrast"
+let g:colors_name = "carbonight-contrast"
+let colors_name   = "carbonight-contrast"
 
